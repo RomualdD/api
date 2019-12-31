@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "adminDiavk",
+    "password": "0u12HuX7HqI1c9CS",
+    "database": "diavk",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "adminDiavk",
+    "password": "0u12HuX7HqI1c9CS",
+    "database": "diavk",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "adminDiavk",
+    "password": "0u12HuX7HqI1c9CS",
+    "database": "diavk",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
